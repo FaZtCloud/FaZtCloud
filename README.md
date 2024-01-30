@@ -2,8 +2,6 @@
 ## 🚀 Sobre mi
 ### Soy estudiante de ingeniaría en sistemas de información de la UTN - Facultad regional Córdoba, Argentina. Tambien a la par que realizo mis estudios, de forma autodidacta, busco aprender nuevas tecnologías.
 
-📌 Actualmente me encuentro realizando un Bootcamp JavaScript Full-stack
-
 ## Tecnologias
 <div align="center" valign="top"><br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
